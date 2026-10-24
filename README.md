@@ -184,8 +184,6 @@ Additionally, we evaluate model performance across the complete end-to-end perso
 
 ---
 
-<img width="1209" height="312" alt="bar-simple" src="https://github.com/user-attachments/assets/720b9ee7-8969-4ef0-9c38-ee616708bab6" />
-
 ### License
 This repository is licensed under the Apache-2.0 License.
 
