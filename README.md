@@ -15,6 +15,7 @@ We introduce PRBEN, a benchmark for systematically studying personalized RAG wit
 </p> -->
 <img width="2226" height="1013" alt="PRBEN" src="https://github.com/user-attachments/assets/a85549d5-157d-4807-a57a-040cc0125a5f" />
 
+
 The dataset is derived from anonymized search logs. To protect user privacy, direct user identifiers are removed, potentially identifying information is removed or masked, and user attributes are retained only in coarse-grained form. We further apply *k*-anonymity (*k*=5) over the released demographic attribute combinations to reduce re-identification risk. Only processed and anonymized data are released; raw search logs and direct user identifiers are not included in the benchmark. Any attempt to re-identify individual users is strictly prohibited.
 
 ## Dataset Statistics
